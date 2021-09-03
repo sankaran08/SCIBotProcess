@@ -1,0 +1,38 @@
+﻿09/03/2021 14:32:05 SCI Automation BOT execution started
+09/03/2021 14:32:05 Reading Transaction Data from Transaction Excel
+09/03/2021 14:32:05 Recorded all the Transaction data into a datatable
+09/03/2021 14:32:05 Initializing all the Applications
+09/03/2021 14:32:12 SAT Login started
+09/03/2021 14:32:50 Entering SAT Username
+09/03/2021 14:32:51 Entering SAT Password
+09/03/2021 14:33:08 Count of transaction data 1
+----------------------------------------------------------------------------------------------------------
+09/03/2021 14:33:08 655239001: Processing Account Number
+09/03/2021 14:33:08 655239001: Processing Transaction Number: 0
+09/03/2021 14:33:11 655239001: Started : UIM Login Sequence
+09/03/2021 14:33:11 655239001: Read UIM Login Credentials
+09/03/2021 14:33:26 655239001: Started : UIM process in NCW URL
+09/03/2021 14:33:27 655239001: Closing Restore pop-up
+09/03/2021 14:33:37 655239001: Enter UIM Username
+09/03/2021 14:33:39 655239001: Enter Password
+09/03/2021 14:34:46 655239001: Started : UIM process in NCW URL
+09/03/2021 14:34:47 655239001: Closing Restore pop-up
+09/03/2021 14:34:57 655239001: Enter UIM Username
+09/03/2021 14:35:09 655239001: Enter Password
+09/03/2021 14:35:16 655239001: UIM Login successful
+09/03/2021 14:35:16 655239001: Click on Parties
+09/03/2021 14:35:53 655239001: Adding Billing Account Number Field
+09/03/2021 14:36:12 655239001: Entering Billing Account Number
+09/03/2021 14:36:45 655239001: System exception. Retry: 0. Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' omit:htmlwindowname='*' title='Parties - Home - Unified Inventory Management'/>
+[2] <webctrl aaname='Party Billing Account Number' colName='Party Billing Account Number' tableCol='2' tableRow='1' tag='INPUT' type='text'/>
+
+Search failed at selector tag:
+[2] <webctrl aaname='Party Billing Account Number' colName='Party Billing Account Number' tableCol='2' tableRow='1' tag='INPUT' type='text'/>
+
+The closest matches found are:
+[88%] <webctrl aaname='Party Account Id' colName='Party Account Id' tableCol='2' tableRow='1' tag='INPUT' type='text'/>
+[84%] <webctrl aaname='Party Name' colName='Party Name' tableCol='2' tableRow='1' tag='INPUT' type='text'/>
+[80%] <webctrl aaname='Party ID' colName='Party ID' tableCol='2' tableRow='1' tag='INPUT' type='text'/> at Source: Invoke Workflow File: Type Into 'BillinAcountNumber'
+09/03/2021 14:36:48 Initializing all the Applications
+09/03/2021 14:36:52 SAT Login started

@@ -1,0 +1,5 @@
+﻿09/03/2021 15:02:23 SCI Automation BOT execution started
+09/03/2021 15:02:23 Reading Transaction Data from Transaction Excel
+09/03/2021 15:02:23 Recorded all the Transaction data into a datatable
+09/03/2021 15:02:23 Initializing all the Applications
+09/03/2021 15:02:27 SAT Login started

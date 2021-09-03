@@ -1,0 +1,33 @@
+﻿09/02/2021 14:16:11 SCI Automation BOT execution started
+09/02/2021 14:16:11 Reading Transaction Data from Transaction Excel
+09/02/2021 14:16:11 Recorded all the Transaction data into a datatable
+09/02/2021 14:16:11 Initializing all the Applications
+09/02/2021 14:16:20 SAT Login started
+09/02/2021 14:16:57 Entering SAT Username
+09/02/2021 14:16:58 Entering SAT Password
+09/02/2021 14:17:06 Count of transaction data 4
+----------------------------------------------------------------------------------------------------------
+09/02/2021 14:17:06 8347100017856090: Processing Account Number
+09/02/2021 14:17:06 8347100017856090: Processing Transaction Number: 0
+09/02/2021 14:17:08 8347100017856090: Started : UIM Login Sequence
+09/02/2021 14:17:08 8347100017856090: Read UIM Login Credentials
+09/02/2021 14:17:23 8347100017856090: Started : UIM process in NCE URL
+09/02/2021 14:17:24 8347100017856090: Closing Restore pop-up
+09/02/2021 14:17:34 8347100017856090: Entering Username
+09/02/2021 14:17:35 8347100017856090: Enter Password
+09/02/2021 14:17:52 UIM Login successful
+09/02/2021 14:17:52 Click on Parties
+09/02/2021 14:18:12 Adding Billing Account Number Field
+09/02/2021 14:18:30 Entering Billing Account Number :8347100017856090
+09/02/2021 14:18:36 Storing the Parties in a datatable
+09/02/2021 14:18:38 Loop through each party ID
+09/02/2021 14:18:38 Partie ID:12320391
+09/02/2021 14:18:38 Party Name :72546596_102614753
+09/02/2021 14:18:38 Click on Services
+09/02/2021 14:18:43 Enter Party name in party name field
+09/02/2021 14:18:51 Extracting the services into Datatable
+09/02/2021 14:18:52 No Services in UIM to disconnect for account number 8347100017856090
+09/02/2021 14:18:52 Logout from UIM 
+09/02/2021 14:18:54 Started : SAT Sequence
+09/02/2021 14:18:54 SAT Login successful
+09/02/2021 14:18:54 Searching for BAN

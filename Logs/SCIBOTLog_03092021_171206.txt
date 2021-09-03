@@ -1,0 +1,132 @@
+﻿09/03/2021 17:12:06 SCI Automation BOT execution started
+09/03/2021 17:12:06 Reading Transaction Data from Transaction Excel
+09/03/2021 17:12:06 Recorded all the Transaction data into a datatable
+09/03/2021 17:12:06 Initializing all the Applications
+09/03/2021 17:12:34 SAT Login started
+09/03/2021 17:12:46 Logged into SAT
+09/03/2021 17:12:52 Count of transaction data 4
+----------------------------------------------------------------------------------------------------------
+09/03/2021 17:12:52 8347100017856090: Processing Account Number
+09/03/2021 17:12:52 8347100017856090: Processing Transaction Number: 0
+09/03/2021 17:12:55 8347100017856090: Started : UIM Login Sequence
+09/03/2021 17:12:55 8347100017856090: Read UIM Login Credentials
+09/03/2021 17:13:05 8347100017856090: Started : UIM process in NCE URL
+09/03/2021 17:13:07 8347100017856090: Closing Restore pop-up
+09/03/2021 17:13:19 8347100017856090: Entering Username
+09/03/2021 17:13:20 8347100017856090: Enter Password
+09/03/2021 17:13:38 8347100017856090: UIM Login successful
+09/03/2021 17:13:38 8347100017856090: Click on Parties
+09/03/2021 17:13:54 8347100017856090: Adding Billing Account Number Field
+09/03/2021 17:14:13 8347100017856090: Entering Billing Account Number
+09/03/2021 17:14:19 8347100017856090: Storing the Parties in a datatable
+09/03/2021 17:14:20 8347100017856090: Loop through each party ID
+09/03/2021 17:14:20 8347100017856090: Partie ID:12320391
+09/03/2021 17:14:20 8347100017856090: Party Name :72546596_102614753
+09/03/2021 17:14:20 8347100017856090: Click on Services
+09/03/2021 17:14:26 8347100017856090: Enter Party name in party name field
+09/03/2021 17:14:34 8347100017856090: Extracting the services into Datatable
+09/03/2021 17:14:35 8347100017856090: No services associated with the account number - 8347100017856090
+09/03/2021 17:14:35 8347100017856090: Start the process for the next account number in transaction data.
+09/03/2021 17:14:35 8347100017856090: Logout from UIM 
+09/03/2021 17:14:37 8347100017856090: Started : SAT Sequence
+09/03/2021 17:14:37 8347100017856090: SAT Login successful
+09/03/2021 17:14:37 8347100017856090: Searching for BAN
+09/03/2021 17:14:44 8347100017856090: Found Account number in Gen2 
+09/03/2021 17:15:30 8347100017856090: Error: No Services or devices in Biller, UIM or BPS for this account.
+09/03/2021 17:15:32 8347100017856090:Business rule exception. SAT: Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+09/03/2021 17:15:33 Count of transaction data 4
+----------------------------------------------------------------------------------------------------------
+09/03/2021 17:15:33 8347100017855936: Processing Account Number
+09/03/2021 17:15:33 8347100017855936: Processing Transaction Number: 1
+09/03/2021 17:15:34 8347100017855936: Started : UIM Login Sequence
+09/03/2021 17:15:34 8347100017855936: Read UIM Login Credentials
+09/03/2021 17:15:44 8347100017855936: Started : UIM process in NCE URL
+09/03/2021 17:15:46 8347100017855936: Closing Restore pop-up
+09/03/2021 17:15:56 8347100017855936: Entering Username
+09/03/2021 17:15:57 8347100017855936: Enter Password
+09/03/2021 17:16:13 8347100017855936: UIM Login successful
+09/03/2021 17:16:13 8347100017855936: Click on Parties
+09/03/2021 17:16:35 8347100017855936: Adding Billing Account Number Field
+09/03/2021 17:16:53 8347100017855936: Entering Billing Account Number
+09/03/2021 17:16:59 8347100017855936: Storing the Parties in a datatable
+09/03/2021 17:17:00 8347100017855936: Loop through each party ID
+09/03/2021 17:17:00 8347100017855936: Partie ID:11945191
+09/03/2021 17:17:00 8347100017855936: Party Name :66219922_68708217
+09/03/2021 17:17:00 8347100017855936: Click on Services
+09/03/2021 17:17:06 8347100017855936: Enter Party name in party name field
+09/03/2021 17:17:13 8347100017855936: Extracting the services into Datatable
+09/03/2021 17:17:15 8347100017855936: Loop through each service ID
+09/03/2021 17:17:15 8347100017855936: Click on Service ID : 10714010
+09/03/2021 17:17:15 8347100017855936: Service is in Pending Disconnect status, Bot will not perform any action  10714010
+09/03/2021 17:17:15 8347100017855936: Logout from UIM 10714010
+09/03/2021 17:17:18 8347100017855936: Started : SAT Sequence
+09/03/2021 17:17:18 8347100017855936: SAT Login successful
+09/03/2021 17:17:18 8347100017855936: Searching for BAN
+09/03/2021 17:17:30 8347100017855936: Found Account number in Gen2 
+09/03/2021 17:17:40 8347100017855936: Started SAT process in Gen 2 for 
+09/03/2021 17:18:01 8347100017855936: No TV Services associated with the Account Number
+09/03/2021 17:18:22 8347100017855936: No Internet Services are associated with Account Number - 
+09/03/2021 17:18:43 8347100017855936: Error: Unale to find Sync&Provision Button for Wifi Service
+09/03/2021 17:18:44 8347100017855936:Business rule exception. SAT: Error: Unable to find Sync&Provision Button for Wifi Service 8347100017855936
+09/03/2021 17:18:44 Count of transaction data 4
+----------------------------------------------------------------------------------------------------------
+09/03/2021 17:18:44 8347100017855480: Processing Account Number
+09/03/2021 17:18:44 8347100017855480: Processing Transaction Number: 2
+09/03/2021 17:18:46 8347100017855480: Started : UIM Login Sequence
+09/03/2021 17:18:46 8347100017855480: Read UIM Login Credentials
+09/03/2021 17:18:56 8347100017855480: Started : UIM process in NCE URL
+09/03/2021 17:18:58 8347100017855480: Closing Restore pop-up
+09/03/2021 17:19:09 8347100017855480: Entering Username
+09/03/2021 17:19:10 8347100017855480: Enter Password
+09/03/2021 17:19:27 8347100017855480: UIM Login successful
+09/03/2021 17:19:27 8347100017855480: Click on Parties
+09/03/2021 17:19:38 8347100017855480: Adding Billing Account Number Field
+09/03/2021 17:19:57 8347100017855480: Entering Billing Account Number
+09/03/2021 17:20:03 8347100017855480: Storing the Parties in a datatable
+09/03/2021 17:20:04 8347100017855480: No parties associated with the account number
+09/03/2021 17:20:04 8347100017855480: Start the process for the next account number in transaction data
+09/03/2021 17:20:04 8347100017855480: Logout from UIM 
+09/03/2021 17:20:07 8347100017855480: Started : SAT Sequence
+09/03/2021 17:20:07 8347100017855480: SAT Login successful
+09/03/2021 17:20:07 8347100017855480: Searching for BAN
+09/03/2021 17:20:13 8347100017855480: Found Account number in Gen2 
+09/03/2021 17:20:22 8347100017855480: Started SAT process in Gen 2 for 
+09/03/2021 17:20:33 8347100017855480: Perform sync for TV/Video Service
+09/03/2021 17:21:08 8347100017855480: Account Sync was successful for TV Service :8347100017855480
+09/03/2021 17:21:29 8347100017855480: No Internet Services are associated with Account Number - 
+09/03/2021 17:21:40 8347100017855480: Perform Sync for WIFI Service
+09/03/2021 17:22:25 8347100017855480:" Error: Account Sync was un successful for WIFI Service
+09/03/2021 17:22:47 8347100017855480: No Phone services are associated with the Account Number
+09/03/2021 17:22:48 8347100017855480:Business rule exception.Error : SAT Sync failed for account number -  8347100017855480
+09/03/2021 17:22:48 Count of transaction data 4
+----------------------------------------------------------------------------------------------------------
+09/03/2021 17:22:48 655239001: Processing Account Number
+09/03/2021 17:22:48 655239001: Processing Transaction Number: 3
+09/03/2021 17:22:49 655239001: Started : UIM Login Sequence
+09/03/2021 17:22:49 655239001: Read UIM Login Credentials
+09/03/2021 17:22:59 655239001: Started : UIM process in NCW URL
+09/03/2021 17:23:01 655239001: Closing Restore pop-up
+09/03/2021 17:23:11 655239001: Enter UIM Username
+09/03/2021 17:23:13 655239001: Enter Password
+09/03/2021 17:23:29 655239001: UIM Login successful
+09/03/2021 17:23:29 655239001: Click on Parties
+09/03/2021 17:23:46 655239001: Adding Billing Account Number Field
+09/03/2021 17:24:04 655239001: Entering Billing Account Number
+09/03/2021 17:24:11 655239001: Storing the Parties in a datatable
+09/03/2021 17:24:12 655239001: No parties associated with the account number
+09/03/2021 17:24:12 655239001: Start the process for the next account number in transaction data
+09/03/2021 17:24:12 655239001: Logout from UIM 
+09/03/2021 17:24:14 655239001: Started : SAT Sequence
+09/03/2021 17:24:14 655239001: SAT Login successful
+09/03/2021 17:24:14 655239001: Searching for BAN
+09/03/2021 17:24:21 655239001: Found Account number in Gen2 
+09/03/2021 17:24:33 655239001: Started SAT process in Gen 2 for 
+09/03/2021 17:24:44 655239001: Perform sync for TV/Video Service
+09/03/2021 17:25:29 655239001: Account Sync was un successful for TV Service :655239001
+09/03/2021 17:25:41 655239001: Perform sync for Internet Service
+09/03/2021 17:26:25 655239001: Error: Account Sync was un successful for internet Service : 
+09/03/2021 17:26:47 655239001: No Wifi services are associated with the Account Number
+09/03/2021 17:26:58 655239001: Perform Sync for Phone Service
+09/03/2021 17:27:49 655239001: Error: Account Sync was un successful for Phone Service : 
+09/03/2021 17:27:51 655239001:Business rule exception.Error : SAT Sync failed for account number -  655239001
+09/03/2021 17:27:51 Process finished due to no more transaction data
